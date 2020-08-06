@@ -1,6 +1,6 @@
-# Callback template
+# Liker template
 
-https://kiselevgleb.github.io/Callback-template/
+https://kiselevgleb.github.io/Liker-template/
 
 This is template appearance animations
-[![Build status](https://ci.appveyor.com/api/projects/status/un2kffw1q1m6m73t?svg=true)](https://ci.appveyor.com/project/kiselevgleb/callback-template)
+[![Build status](https://ci.appveyor.com/api/projects/status/ggofkus91vmb4gqf?svg=true)](https://ci.appveyor.com/project/kiselevgleb/liker-template)
