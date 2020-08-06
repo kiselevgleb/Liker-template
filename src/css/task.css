@@ -1,0 +1,148 @@
+.submit {
+  display: block;
+  width: 95%;
+  border-radius: 5px;
+  border: 0px;
+  margin: 5px;
+  text-align: center;
+  margin-top: 90%;
+  cursor: pointer;
+}
+
+.note {
+  width: 200px;
+  height: 200px;
+  border: 1px double #c7c7c7;
+  border-radius: 5px;
+  display: block;
+  position: absolute;
+  /* opacity: 0; */
+}
+
+.heart {
+  opacity: 0;
+}
+
+.heart-animation {
+  animation: heart-animation 500ms linear;
+}
+
+@keyframes heart-animation {
+  0% {
+    transform: translate(100px, 170px);
+    opacity: 1;
+  }
+
+  25% {
+    transform: translate(150px, 126px);
+    opacity: 1;
+  }
+
+  50% {
+    transform: translate(100px, 84px);
+    opacity: 1;
+  }
+
+  75% {
+    transform: translate(50px, 42px);
+    opacity: 1;
+  }
+
+  100% {
+    transform: translate(100px, 0px);
+    opacity: 0;
+  }
+}
+
+.heart-animation2 {
+  animation: heart-animation2 500ms linear;
+}
+
+@keyframes heart-animation2 {
+  0% {
+    transform: translate(100px, 170px);
+    opacity: 1;
+  }
+
+  25% {
+    transform: translate(50px, 126px);
+    opacity: 1;
+  }
+
+  50% {
+    transform: translate(150px, 84px);
+    opacity: 1;
+  }
+
+  75% {
+    transform: translate(100px, 42px);
+    opacity: 1;
+  }
+
+  100% {
+    transform: translate(100px, 0px);
+    opacity: 0;
+  }
+}
+
+.heart-animation3 {
+  animation: heart-animation3 500ms linear;
+}
+
+@keyframes heart-animation3 {
+  0% {
+    transform: translate(100px, 170px);
+    opacity: 1;
+  }
+
+  25% {
+    transform: translate(150px, 126px);
+    opacity: 1;
+  }
+
+  50% {
+    transform: translate(50px, 84px);
+    opacity: 1;
+  }
+
+  75% {
+    transform: translate(100px, 42px);
+    opacity: 1;
+  }
+
+  100% {
+    transform: translate(100px, 0px);
+    opacity: 0;
+  }
+}
+
+.heart-animation3 {
+  animation: heart-animation3 500ms linear;
+}
+
+@keyframes heart-animation3 {
+  0% {
+    transform: translate(100px, 170px);
+    opacity: 1;
+  }
+
+  25% {
+    transform: translate(50px, 126px);
+    opacity: 1;
+  }
+
+  50% {
+    transform: translate(100px, 84px);
+    opacity: 1;
+  }
+
+  75% {
+    transform: translate(150px, 42px);
+    opacity: 1;
+  }
+
+  100% {
+    transform: translate(100px, 0px);
+    opacity: 0;
+  }
+}
